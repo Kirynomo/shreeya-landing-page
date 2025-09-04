@@ -20,7 +20,13 @@ This project helped me strengthen my basics of **HTML & CSS** while experimentin
 ---
 
 ## 📸 Screenshots
-![Landing Page Screenshot](assets/screenshots/landing-page-part1.png)(assets/screenshots/landing-page-part2.png)
+
+**Part 1**
+![Landing Page Screenshot Part 1](assets/screenshots/landing-page-part1.png)
+
+**Part 2**
+![Landing Page Screenshot Part 2](assets/screenshots/landing-page-part2.png)
+
 
 ---
 
